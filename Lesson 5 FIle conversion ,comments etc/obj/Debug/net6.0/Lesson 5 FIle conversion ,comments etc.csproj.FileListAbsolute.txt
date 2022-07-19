@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\bin\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.exe
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\bin\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.deps.json
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\bin\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\bin\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.dll
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\bin\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.pdb
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.dll
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\refint\Lesson 5 FIle conversion ,comments etc.dll
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.pdb
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\Lesson 5 FIle conversion ,comments etc.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 5 FIle conversion ,comments etc\obj\Debug\net6.0\ref\Lesson 5 FIle conversion ,comments etc.dll
