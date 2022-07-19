@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\bin\Debug\net6.0\Lesson 7 Jump Instruction.exe
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\bin\Debug\net6.0\Lesson 7 Jump Instruction.deps.json
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\bin\Debug\net6.0\Lesson 7 Jump Instruction.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\bin\Debug\net6.0\Lesson 7 Jump Instruction.dll
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\bin\Debug\net6.0\Lesson 7 Jump Instruction.pdb
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\Lesson 7 Jump Instruction.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\Lesson 7 Jump Instruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\Lesson 7 Jump Instruction.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\Lesson 7 Jump Instruction.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\Lesson 7 Jump Instruction.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\Lesson 7 Jump Instruction.dll
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\refint\Lesson 7 Jump Instruction.dll
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\Lesson 7 Jump Instruction.pdb
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\Lesson 7 Jump Instruction.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 7 Jump Instruction\Lesson 7 Jump Instruction\obj\Debug\net6.0\ref\Lesson 7 Jump Instruction.dll

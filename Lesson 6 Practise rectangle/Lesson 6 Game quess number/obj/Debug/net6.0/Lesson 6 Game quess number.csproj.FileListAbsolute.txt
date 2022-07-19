@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\bin\Debug\net6.0\Lesson 6 Game quess number.exe
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\bin\Debug\net6.0\Lesson 6 Game quess number.deps.json
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\bin\Debug\net6.0\Lesson 6 Game quess number.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\bin\Debug\net6.0\Lesson 6 Game quess number.dll
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\bin\Debug\net6.0\Lesson 6 Game quess number.pdb
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\Lesson 6 Game quess number.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\Lesson 6 Game quess number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\Lesson 6 Game quess number.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\Lesson 6 Game quess number.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\Lesson 6 Game quess number.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\Lesson 6 Game quess number.dll
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\refint\Lesson 6 Game quess number.dll
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\Lesson 6 Game quess number.pdb
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\Lesson 6 Game quess number.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 6 Practise rectangle\Lesson 6 Game quess number\obj\Debug\net6.0\ref\Lesson 6 Game quess number.dll
