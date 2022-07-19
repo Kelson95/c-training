@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\bin\Debug\net6.0\Lesson 9 Tablica Array.exe
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\bin\Debug\net6.0\Lesson 9 Tablica Array.deps.json
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\bin\Debug\net6.0\Lesson 9 Tablica Array.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\bin\Debug\net6.0\Lesson 9 Tablica Array.dll
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\bin\Debug\net6.0\Lesson 9 Tablica Array.pdb
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\Lesson 9 Tablica Array.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\Lesson 9 Tablica Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\Lesson 9 Tablica Array.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\Lesson 9 Tablica Array.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\Lesson 9 Tablica Array.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\Lesson 9 Tablica Array.dll
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\refint\Lesson 9 Tablica Array.dll
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\Lesson 9 Tablica Array.pdb
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\Lesson 9 Tablica Array.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 9 Tablica Array\Lesson 9 Tablica Array\obj\Debug\net6.0\ref\Lesson 9 Tablica Array.dll

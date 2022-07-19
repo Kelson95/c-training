@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\bin\Debug\net6.0\Lesson 8 Swich.exe
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\bin\Debug\net6.0\Lesson 8 Swich.deps.json
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\bin\Debug\net6.0\Lesson 8 Swich.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\bin\Debug\net6.0\Lesson 8 Swich.dll
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\bin\Debug\net6.0\Lesson 8 Swich.pdb
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\Lesson 8 Swich.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\Lesson 8 Swich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\Lesson 8 Swich.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\Lesson 8 Swich.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\Lesson 8 Swich.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\Lesson 8 Swich.dll
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\refint\Lesson 8 Swich.dll
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\Lesson 8 Swich.pdb
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\Lesson 8 Swich.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 8 Swich\Lesson 8 Swich\obj\Debug\net6.0\ref\Lesson 8 Swich.dll
