@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 15 constuctors class and objects part2", "Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2.csproj", "{4D12FA14-1DBB-42F3-89A8-1A5743ECD692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D12FA14-1DBB-42F3-89A8-1A5743ECD692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D12FA14-1DBB-42F3-89A8-1A5743ECD692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D12FA14-1DBB-42F3-89A8-1A5743ECD692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D12FA14-1DBB-42F3-89A8-1A5743ECD692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FB4AC3-4BA4-4921-9A9E-B1BF7E72374B}
+	EndGlobalSection
+EndGlobal

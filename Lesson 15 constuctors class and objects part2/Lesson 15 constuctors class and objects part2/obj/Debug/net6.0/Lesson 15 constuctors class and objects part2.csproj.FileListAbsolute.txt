@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\Lesson 15 constuctors class and objects part2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\Lesson 15 constuctors class and objects part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\Lesson 15 constuctors class and objects part2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\Lesson 15 constuctors class and objects part2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\Lesson 15 constuctors class and objects part2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\bin\Debug\net6.0\Lesson 15 constuctors class and objects part2.exe
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\bin\Debug\net6.0\Lesson 15 constuctors class and objects part2.deps.json
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\bin\Debug\net6.0\Lesson 15 constuctors class and objects part2.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\bin\Debug\net6.0\Lesson 15 constuctors class and objects part2.dll
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\bin\Debug\net6.0\Lesson 15 constuctors class and objects part2.pdb
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\Lesson 15 constuctors class and objects part2.dll
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\refint\Lesson 15 constuctors class and objects part2.dll
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\Lesson 15 constuctors class and objects part2.pdb
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\Lesson 15 constuctors class and objects part2.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 15 constuctors class and objects part2\Lesson 15 constuctors class and objects part2\obj\Debug\net6.0\ref\Lesson 15 constuctors class and objects part2.dll
