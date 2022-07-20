@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\bin\Debug\net6.0\Lesson 17 String Operation params object.exe
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\bin\Debug\net6.0\Lesson 17 String Operation params object.deps.json
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\bin\Debug\net6.0\Lesson 17 String Operation params object.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\bin\Debug\net6.0\Lesson 17 String Operation params object.dll
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\bin\Debug\net6.0\Lesson 17 String Operation params object.pdb
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\Lesson 17 String Operation params object.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\Lesson 17 String Operation params object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\Lesson 17 String Operation params object.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\Lesson 17 String Operation params object.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\Lesson 17 String Operation params object.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\Lesson 17 String Operation params object.dll
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\refint\Lesson 17 String Operation params object.dll
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\Lesson 17 String Operation params object.pdb
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\Lesson 17 String Operation params object.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 17 String Operation params object\Lesson 17 String Operation params object\obj\Debug\net6.0\ref\Lesson 17 String Operation params object.dll

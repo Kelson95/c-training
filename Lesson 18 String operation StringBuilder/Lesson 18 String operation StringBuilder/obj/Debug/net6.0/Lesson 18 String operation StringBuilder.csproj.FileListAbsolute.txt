@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\bin\Debug\net6.0\Lesson 18 String operation StringBuilder.exe
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\bin\Debug\net6.0\Lesson 18 String operation StringBuilder.deps.json
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\bin\Debug\net6.0\Lesson 18 String operation StringBuilder.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\bin\Debug\net6.0\Lesson 18 String operation StringBuilder.dll
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\bin\Debug\net6.0\Lesson 18 String operation StringBuilder.pdb
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\Lesson 18 String operation StringBuilder.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\Lesson 18 String operation StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\Lesson 18 String operation StringBuilder.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\Lesson 18 String operation StringBuilder.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\Lesson 18 String operation StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\Lesson 18 String operation StringBuilder.dll
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\refint\Lesson 18 String operation StringBuilder.dll
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\Lesson 18 String operation StringBuilder.pdb
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\Lesson 18 String operation StringBuilder.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 18 String operation StringBuilder\Lesson 18 String operation StringBuilder\obj\Debug\net6.0\ref\Lesson 18 String operation StringBuilder.dll

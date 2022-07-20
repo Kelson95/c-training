@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 17 String Operation params object", "Lesson 17 String Operation params object\Lesson 17 String Operation params object.csproj", "{E4D6BC99-2A71-486B-A99A-92C7F871E737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D6BC99-2A71-486B-A99A-92C7F871E737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D6BC99-2A71-486B-A99A-92C7F871E737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D6BC99-2A71-486B-A99A-92C7F871E737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D6BC99-2A71-486B-A99A-92C7F871E737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82347BD3-6EF9-4153-9828-7851F99476C7}
+	EndGlobalSection
+EndGlobal
