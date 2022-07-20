@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lesson 25  Sorting colection list compare/1.0.0": {
+        "runtime": {
+          "Lesson 25  Sorting colection list compare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson 25  Sorting colection list compare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

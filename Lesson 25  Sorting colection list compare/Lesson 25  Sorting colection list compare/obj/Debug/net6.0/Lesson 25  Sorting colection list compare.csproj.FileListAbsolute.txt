@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\bin\Debug\net6.0\Lesson 25  Sorting colection list compare.exe
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\bin\Debug\net6.0\Lesson 25  Sorting colection list compare.deps.json
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\bin\Debug\net6.0\Lesson 25  Sorting colection list compare.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\bin\Debug\net6.0\Lesson 25  Sorting colection list compare.dll
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\bin\Debug\net6.0\Lesson 25  Sorting colection list compare.pdb
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\Lesson 25  Sorting colection list compare.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\Lesson 25  Sorting colection list compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\Lesson 25  Sorting colection list compare.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\Lesson 25  Sorting colection list compare.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\Lesson 25  Sorting colection list compare.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\Lesson 25  Sorting colection list compare.dll
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\refint\Lesson 25  Sorting colection list compare.dll
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\Lesson 25  Sorting colection list compare.pdb
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\Lesson 25  Sorting colection list compare.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 25  Sorting colection list compare\Lesson 25  Sorting colection list compare\obj\Debug\net6.0\ref\Lesson 25  Sorting colection list compare.dll
