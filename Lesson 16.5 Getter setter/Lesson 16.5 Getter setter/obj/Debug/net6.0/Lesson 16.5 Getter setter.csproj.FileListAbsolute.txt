@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\bin\Debug\net6.0\Lesson 16.5 Getter setter.exe
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\bin\Debug\net6.0\Lesson 16.5 Getter setter.deps.json
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\bin\Debug\net6.0\Lesson 16.5 Getter setter.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\bin\Debug\net6.0\Lesson 16.5 Getter setter.dll
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\bin\Debug\net6.0\Lesson 16.5 Getter setter.pdb
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\Lesson 16.5 Getter setter.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\Lesson 16.5 Getter setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\Lesson 16.5 Getter setter.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\Lesson 16.5 Getter setter.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\Lesson 16.5 Getter setter.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\Lesson 16.5 Getter setter.dll
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\refint\Lesson 16.5 Getter setter.dll
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\Lesson 16.5 Getter setter.pdb
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\Lesson 16.5 Getter setter.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 16.5 Getter setter\Lesson 16.5 Getter setter\obj\Debug\net6.0\ref\Lesson 16.5 Getter setter.dll
