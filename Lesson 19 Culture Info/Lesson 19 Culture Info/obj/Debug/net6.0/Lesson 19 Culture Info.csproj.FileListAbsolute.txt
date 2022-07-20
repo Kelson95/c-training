@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\Lesson 19 Culture Info.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\Lesson 19 Culture Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\Lesson 19 Culture Info.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\Lesson 19 Culture Info.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\Lesson 19 Culture Info.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\bin\Debug\net6.0\Lesson 19 Culture Info.exe
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\bin\Debug\net6.0\Lesson 19 Culture Info.deps.json
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\bin\Debug\net6.0\Lesson 19 Culture Info.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\bin\Debug\net6.0\Lesson 19 Culture Info.dll
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\bin\Debug\net6.0\Lesson 19 Culture Info.pdb
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\Lesson 19 Culture Info.dll
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\refint\Lesson 19 Culture Info.dll
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\Lesson 19 Culture Info.pdb
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\Lesson 19 Culture Info.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 19 Culture Info\Lesson 19 Culture Info\obj\Debug\net6.0\ref\Lesson 19 Culture Info.dll
