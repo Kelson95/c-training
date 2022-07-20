@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lesson 22 COlection DIctionary/1.0.0": {
+        "runtime": {
+          "Lesson 22 COlection DIctionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson 22 COlection DIctionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

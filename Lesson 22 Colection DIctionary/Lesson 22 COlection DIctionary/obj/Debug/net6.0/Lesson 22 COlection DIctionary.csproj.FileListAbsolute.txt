@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\bin\Debug\net6.0\Lesson 22 COlection DIctionary.exe
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\bin\Debug\net6.0\Lesson 22 COlection DIctionary.deps.json
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\bin\Debug\net6.0\Lesson 22 COlection DIctionary.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\bin\Debug\net6.0\Lesson 22 COlection DIctionary.dll
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\bin\Debug\net6.0\Lesson 22 COlection DIctionary.pdb
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\Lesson 22 COlection DIctionary.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\Lesson 22 COlection DIctionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\Lesson 22 COlection DIctionary.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\Lesson 22 COlection DIctionary.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\Lesson 22 COlection DIctionary.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\Lesson 22 COlection DIctionary.dll
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\refint\Lesson 22 COlection DIctionary.dll
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\Lesson 22 COlection DIctionary.pdb
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\Lesson 22 COlection DIctionary.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 22 COlection DIctionary\Lesson 22 COlection DIctionary\obj\Debug\net6.0\ref\Lesson 22 COlection DIctionary.dll
