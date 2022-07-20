@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\bin\Debug\net6.0\Lesson 21 List collection.exe
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\bin\Debug\net6.0\Lesson 21 List collection.deps.json
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\bin\Debug\net6.0\Lesson 21 List collection.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\bin\Debug\net6.0\Lesson 21 List collection.dll
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\bin\Debug\net6.0\Lesson 21 List collection.pdb
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\Lesson 21 List collection.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\Lesson 21 List collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\Lesson 21 List collection.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\Lesson 21 List collection.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\Lesson 21 List collection.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\Lesson 21 List collection.dll
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\refint\Lesson 21 List collection.dll
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\Lesson 21 List collection.pdb
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\Lesson 21 List collection.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 21 List collection\Lesson 21 List collection\obj\Debug\net6.0\ref\Lesson 21 List collection.dll
