@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\bin\Debug\net6.0\Lesson 23 Colections Queue and Stack.exe
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\bin\Debug\net6.0\Lesson 23 Colections Queue and Stack.deps.json
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\bin\Debug\net6.0\Lesson 23 Colections Queue and Stack.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\bin\Debug\net6.0\Lesson 23 Colections Queue and Stack.dll
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\bin\Debug\net6.0\Lesson 23 Colections Queue and Stack.pdb
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\Lesson 23 Colections Queue and Stack.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\Lesson 23 Colections Queue and Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\Lesson 23 Colections Queue and Stack.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\Lesson 23 Colections Queue and Stack.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\Lesson 23 Colections Queue and Stack.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\Lesson 23 Colections Queue and Stack.dll
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\refint\Lesson 23 Colections Queue and Stack.dll
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\Lesson 23 Colections Queue and Stack.pdb
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\Lesson 23 Colections Queue and Stack.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 23 Colections Queue and Stack\Lesson 23 Colections Queue and Stack\obj\Debug\net6.0\ref\Lesson 23 Colections Queue and Stack.dll
