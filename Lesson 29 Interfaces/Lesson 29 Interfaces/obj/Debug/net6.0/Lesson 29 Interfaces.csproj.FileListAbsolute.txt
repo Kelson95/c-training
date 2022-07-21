@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\bin\Debug\net6.0\Lesson 29 Interfaces.exe
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\bin\Debug\net6.0\Lesson 29 Interfaces.deps.json
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\bin\Debug\net6.0\Lesson 29 Interfaces.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\bin\Debug\net6.0\Lesson 29 Interfaces.dll
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\bin\Debug\net6.0\Lesson 29 Interfaces.pdb
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\Lesson 29 Interfaces.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\Lesson 29 Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\Lesson 29 Interfaces.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\Lesson 29 Interfaces.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\Lesson 29 Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\Lesson 29 Interfaces.dll
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\refint\Lesson 29 Interfaces.dll
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\Lesson 29 Interfaces.pdb
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\Lesson 29 Interfaces.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 29 Interfaces\Lesson 29 Interfaces\obj\Debug\net6.0\ref\Lesson 29 Interfaces.dll
