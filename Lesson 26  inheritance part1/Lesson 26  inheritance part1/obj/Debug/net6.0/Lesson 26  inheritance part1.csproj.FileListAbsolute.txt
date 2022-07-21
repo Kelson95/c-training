@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\bin\Debug\net6.0\Lesson 26  inheritance part1.exe
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\bin\Debug\net6.0\Lesson 26  inheritance part1.deps.json
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\bin\Debug\net6.0\Lesson 26  inheritance part1.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\bin\Debug\net6.0\Lesson 26  inheritance part1.dll
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\bin\Debug\net6.0\Lesson 26  inheritance part1.pdb
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\Lesson 26  inheritance part1.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\Lesson 26  inheritance part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\Lesson 26  inheritance part1.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\Lesson 26  inheritance part1.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\Lesson 26  inheritance part1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\Lesson 26  inheritance part1.dll
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\refint\Lesson 26  inheritance part1.dll
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\Lesson 26  inheritance part1.pdb
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\Lesson 26  inheritance part1.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 26  inheritance part1\Lesson 26  inheritance part1\obj\Debug\net6.0\ref\Lesson 26  inheritance part1.dll
