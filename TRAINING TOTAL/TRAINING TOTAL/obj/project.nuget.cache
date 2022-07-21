@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Hd3MNLUNErzC+JSrw6cYwsZ2RTDPLmu43tWotQOWDDEBbhimZt0+43DmXzGSJuZXeIcuW2meUkyv+X+bv7coQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\TRAINING TOTAL\\TRAINING TOTAL\\TRAINING TOTAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

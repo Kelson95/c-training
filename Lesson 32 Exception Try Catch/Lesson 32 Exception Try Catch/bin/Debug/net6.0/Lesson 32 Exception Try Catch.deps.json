@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lesson 32 Exception Try Catch/1.0.0": {
+        "runtime": {
+          "Lesson 32 Exception Try Catch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson 32 Exception Try Catch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\bin\Debug\net6.0\Lesson 32 Exception Try Catch.exe
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\bin\Debug\net6.0\Lesson 32 Exception Try Catch.deps.json
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\bin\Debug\net6.0\Lesson 32 Exception Try Catch.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\bin\Debug\net6.0\Lesson 32 Exception Try Catch.dll
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\bin\Debug\net6.0\Lesson 32 Exception Try Catch.pdb
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\Lesson 32 Exception Try Catch.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\Lesson 32 Exception Try Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\Lesson 32 Exception Try Catch.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\Lesson 32 Exception Try Catch.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\Lesson 32 Exception Try Catch.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\Lesson 32 Exception Try Catch.dll
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\refint\Lesson 32 Exception Try Catch.dll
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\Lesson 32 Exception Try Catch.pdb
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\Lesson 32 Exception Try Catch.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 32 Exception Try Catch\Lesson 32 Exception Try Catch\obj\Debug\net6.0\ref\Lesson 32 Exception Try Catch.dll
