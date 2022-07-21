@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\bin\Debug\net6.0\Lesson 31 Enum.exe
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\bin\Debug\net6.0\Lesson 31 Enum.deps.json
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\bin\Debug\net6.0\Lesson 31 Enum.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\bin\Debug\net6.0\Lesson 31 Enum.dll
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\bin\Debug\net6.0\Lesson 31 Enum.pdb
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\Lesson 31 Enum.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\Lesson 31 Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\Lesson 31 Enum.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\Lesson 31 Enum.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\Lesson 31 Enum.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\Lesson 31 Enum.dll
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\refint\Lesson 31 Enum.dll
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\Lesson 31 Enum.pdb
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\Lesson 31 Enum.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 31 Enum\Lesson 31 Enum\obj\Debug\net6.0\ref\Lesson 31 Enum.dll
