@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\bin\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.exe
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\bin\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.deps.json
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\bin\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\bin\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.dll
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\bin\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.pdb
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.dll
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\refint\Lesson 28 Inheritance part3 L27cd.dll
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.pdb
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\Lesson 28 Inheritance part3 L27cd.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 28 Inheritance part3 L27cd\Lesson 28 Inheritance part3 L27cd\obj\Debug\net6.0\ref\Lesson 28 Inheritance part3 L27cd.dll
