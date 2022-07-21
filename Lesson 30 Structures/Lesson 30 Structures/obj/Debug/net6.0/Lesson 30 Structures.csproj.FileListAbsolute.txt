@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\Lesson 30 Structures.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\Lesson 30 Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\Lesson 30 Structures.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\Lesson 30 Structures.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\Lesson 30 Structures.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\bin\Debug\net6.0\Lesson 30 Structures.exe
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\bin\Debug\net6.0\Lesson 30 Structures.deps.json
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\bin\Debug\net6.0\Lesson 30 Structures.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\bin\Debug\net6.0\Lesson 30 Structures.dll
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\bin\Debug\net6.0\Lesson 30 Structures.pdb
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\Lesson 30 Structures.dll
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\refint\Lesson 30 Structures.dll
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\Lesson 30 Structures.pdb
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\Lesson 30 Structures.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lesson 30 Structures\Lesson 30 Structures\obj\Debug\net6.0\ref\Lesson 30 Structures.dll
