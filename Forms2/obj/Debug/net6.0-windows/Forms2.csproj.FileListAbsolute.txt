@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\Forms2\bin\Debug\net6.0-windows\Forms2.exe
+C:\Users\lenovo\source\repos\Forms2\bin\Debug\net6.0-windows\Forms2.deps.json
+C:\Users\lenovo\source\repos\Forms2\bin\Debug\net6.0-windows\Forms2.runtimeconfig.json
+C:\Users\lenovo\source\repos\Forms2\bin\Debug\net6.0-windows\Forms2.dll
+C:\Users\lenovo\source\repos\Forms2\bin\Debug\net6.0-windows\Forms2.pdb
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.Form1.resources
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.dll
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\refint\Forms2.dll
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.pdb
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\Forms2.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Forms2\obj\Debug\net6.0-windows\ref\Forms2.dll
